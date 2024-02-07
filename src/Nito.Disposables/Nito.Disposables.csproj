@@ -5,7 +5,7 @@
     <TargetFrameworks>netstandard1.0;netstandard2.0;netstandard2.1;net461;net8.0</TargetFrameworks>
     <PackageTags>idisposable,iasyncdisposable,disposable</PackageTags>
     <SignAssembly>True</SignAssembly>
-    <AssemblyOriginatorKeyFile>D:\git\Impressions\hardnesstesterV4\3rdparty\AsyncEx\src\Disposables\Nito.Disposables.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\..\Nito.Disposables.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
